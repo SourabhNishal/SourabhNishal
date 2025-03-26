@@ -1,6 +1,7 @@
 <p align="center">
-  <img alt="coding" style="width:100%; max-width:3300px; height:150px;" src="https://miro.medium.com/v2/resize:fit:1400/1*g3zcRSjUu50p7_1brc9c2Q.gif">
+  <img alt="coding" style="width:30cm; height:4cm;" src="https://miro.medium.com/v2/resize:fit:1400/1*g3zcRSjUu50p7_1brc9c2Q.gif">
 </p>
+
 
 # Hi there! 👋 I'm Sourabh Nishal
 
